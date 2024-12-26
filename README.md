@@ -57,6 +57,10 @@ See the video adventure below:
 
 # Burro mesa
 
+I dubbed Burro mesa due to its shape when viewed from Google Earth. There are several sites located on or near the mesa.  The first is the allosaurus site on Burro mea proper. Then there is a satellite mesa to the east about 20 to 30 yards that also has predeomninantly allosaurus fossils
+
+several jhundred yard north of this mesa proper we found a large sauropod limb in situ and eroding out of a thin sandstone lens
+
 ### Burro mesa - Large sauropod femur by tree
 
 **Click the image below to manipulate the bone in 3D**
