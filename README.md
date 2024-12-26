@@ -1,1 +1,136 @@
-# OjitoDiscoveries
+# Ojito Discoveries
+
+## Background
+
+The names of the sites we use were developed primarily based on what I think a basin or mesa resembled looking down from a view as in Google Earth. Locations such as "Jeffersons Nose" - to me - resemble the image of Thomas Jefferson on a nickle. "Mammoth Mesa" resembles the head , tusks and trunk of a wooly mammoth when observed from overhead.  Most of the data and images we collected were collected over the span of years form 2014 to 2022 or so.
+
+Several images, video, and 3D scan sites are provided to get a better sense of our discoveries in the Ojito.
+
+## Ojito Petroglyphs
+![PetroglyphsImage.png](images/PetroglyphsImage.png)
+
+The petroglyphs in the Ojito Wilderness, estimated to be around 1,000 years old, are scattered along the edge of a mesa in its southeast corner and are the most extensive in the area. Discovering them requires effort, as their exact location is not widely shared, adding to the sense of accomplishment upon finding them. Standing on the ledge where they are inscribed, the author reflects on the ancient artist who etched these stories into the rock, imagining the timeless landscape and feeling a poignant connection to a fellow human from a distant past.  We have even found pottery sherds with juman fingerprints on them!
+
+**Click the image to open the Petroglyphs gallery!**
+
+<a href="https://ojitopetroglyphsadventure.netlify.app/">
+    <img src="images/PetroglyphsTurtle.jpg" alt="Petroglyphs Turtle" width="300">
+</a>
+
+**Note** The gallery will display thumbnails but click an image of interest to see full size!
+
+## The McConnell sites (I and II)
+Described by [Hilde L. Schwartz and Kim Manley in "Geology and stratigraphy of the Seismosaurus locality, Sandoval County, New
+Mexico"](https://geoinfo.nmt.edu/publications/periodicals/nmg/14/n2/nmg_v14_n2_p25.pdf).  
+
+#### McConnell I (MCI)
+*"MCI consists of an accumulation of disarticulated skeletal elements, including ribs, teeth, vertebrae, one tooth, and one gastrolith in situ. The bones represent at Ieast two individuals, a sauropod and a carnosaur Gillette, 1991). They are at the base of a short, steep slope in a silty olive claystone that crops out 2.8 km southeast of SSI. The MCI stratum is part of a thick floodplainoverbank sequence that is near the top of the Brushy Basin Member."*
+
+In our adventures we have found more and larger finds in MCII but MCI does have an apparent "end of an Allosaurid fibula" - or did - we tried to place it out of harms way (floods) protected by a larger boulder - but the last three trips have proven we can no longer find this bone, it very well was likely washed down the arroyo - we still have pictures and video!
+
+#### McConnell II (MCII)
+*"Only 0.1 km south-southeast of MCI, the MCII site is stratigraphically 13 m higher than its neighbor. One large bone and numerous bone flakes and fragments (unidentified to date) are exposed here. They are eroding from a dark reddish-brown siltstone_bed that is part of the same floodplain-overbank complex as MCI."*
+
+MCII sports a couple of large splintering bones eroding out from red claystone. The larger appears to be a large head of rib of a sauropod of some kind.
+
+**Click the image below to enter the McConnell Gallery**
+<a href="https://favoritemc.netlify.app/">
+    <img src="images/MC20141020IMG_1794.jpg" alt="Allosaurus Carpal" width="300">
+</a>
+
+# scaniverse (3D)
+
+
+### Allosaurus Carpal
+
+<a href="https://scaniverse.com/scan/4zpqghjstlkfivuh">
+    <img src="images/AlloCarpal.png" alt="AlloCarpal" width="300">
+</a>
+
+From Burro mesa area - quite a few Allosaurus bits!
+
+Rotate the boulder with a a mouse and zoom in or out with a scroll wheel, or translate with a SHIFT Mouse until you can clearly view the darker gray carpal bone of an allosaur!
+
+
+### Burro Fib and Frags
+
+
+<a href="https://scaniverse.com/scan/vsqjrnednbcq6ikf">
+    <img src="images/Burro_AlloTibia_nFrags.png" alt="Burro - Allosaurus Fibula tip and Frags" width="300">
+</a>
+
+Rotate the boulder down 90 degrees with a a mouse and zoom in or out with a scroll wheel, or translate with a SHIFT Mouse until you can clearly view the partially exposed claw of an allosaur! Now in the New Mexico Museum of Natural Hostory Annex!
+
+### Burro mesa - Allosaurus Claw!
+
+<a href="https://scaniverse.com/scan/kyfzlf2m2gitpask">
+    <img src="images/Burro_AllosaurClaw.png" alt="Burro - Allosaurus Claw" width="300">
+</a>
+
+Rotate the iage about 30 degrees downward to see the FIbula tip and other frags we placed on top of the boulder
+
+
+
+Burro maybe tooth
+
+Burro Allosaurus Scapula
+
+Burro Allosaurus limb femur
+
+Burro large sauropod femur tree
+
+Burros Claw 2
+
+Burro - Allosaurus Partial Skull?
+
+Burro Allosaurs Split Femur   with calcite core and "cherty" outer bone 
+
+Burro Limb Excav
+
+Burro Limb Excav hole
+
+Burro - Rib in Saltwash
+
+Burro - Rib different angle
+
+Cary allosaurus neck rib and vert
+
+Chi Mesa Allosaurus Radius
+
+Chi Mesa diplodocus H femur
+
+Chi Mesa Camarasaurus tooth
+
+Crescent Mesa Stegosaurus Spike collected for NMMNH
+
+Crescent Mesa Stegosaurus in situ site
+
+DB Limb on trail
+
+DB Diplodocus vertebrae
+
+Germany in situ claystone w small diagnostic piece
+
+Lambda Fat original vert find in situ
+Lambda Fat three verts collected gray nice
+Lambda Fat Camarasaurus vert 2
+
+Ravens Head Rib w Concretion look for white rib under brown concretion
+Raven head route great pottery bowl red w black
+Raven Gray pottery Raven head route
+Raven head stegosaurus humerus
+Raven stegosaurus humerus
+
+RTL nc2 rib minor
+RTL nc2 rib 2 major
+RTL WOW red vert context
+RTL WOW RED VERTEBRA
+Y Mesa Green Plate
+
+Y Mesa Fibula end near green plate
+
+Y Mesa Allosaurus pelvis
+
+
+
+
