@@ -241,34 +241,60 @@ See the video adventure below:
     <img src="images/Crescent_StegoSpike2.png"  title="Video: Dad discovers Stegosaurus spike in float" width="800">
 </a>
 
+[Crescent Mesa Stegosaurus in situ site](https://scaniverse.com/scan/jlhoaxeq7jjsrjhq)
 
-Crescent Mesa Stegosaurus in situ site
+[DB Limb on trail](https://scaniverse.com/scan/2nrsu5l54d5d7bai)
 
-DB Limb on trail
+[DB Diplodocus vertebrae](https://scaniverse.com/scan/bbvitgtbt2wcytya)
 
-DB Diplodocus vertebrae
+[Germany in situ claystone w small diagnostic piece](https://scaniverse.com/scan/fjr2besm2t3qrdyn)
 
-Germany in situ claystone w small diagnostic piece
+[Batwing Sam's Boulder limb](https://scaniverse.com/scan/h6jcie627f4a6q4e)
 
-Lambda Fat original vert find in situ
-Lambda Fat three verts collected gray nice
-Lambda Fat Camarasaurus vert 2
+[Lambda Fat original vert find in situ](https://scaniverse.com/scan/5eiei327ftl2onsy)
 
-Ravens Head Rib w Concretion look for white rib under brown concretion
-Raven head route great pottery bowl red w black
-Raven Gray pottery Raven head route
-Raven head stegosaurus humerus
-Raven stegosaurus humerus
+[Lambda Fat three verts collected gray nice](https://scaniverse.com/scan/eq4ajky7cciszoq2)
 
-RTL nc2 rib minor
-RTL nc2 rib 2 major
-RTL WOW red vert context
-RTL WOW RED VERTEBRA
-Y Mesa Green Plate
+[Lambda Fat Camarasaurus vert 2](https://scaniverse.com/scan/pmbmpzngsjfiv6md)
 
-Y Mesa Fibula end near green plate
+[MM Mesa large limb boulder](https://scaniverse.com/scan/qpgtfdvnkpwv6abp)
 
-Y Mesa Allosaurus pelvis
+[MM Cliff Face Sheared Scapula](https://scaniverse.com/scan/wbpfzrumyirrnajw)
+
+[MM Mesa large limb boulder](https://scaniverse.com/scan/qpgtfdvnkpwv6abp)
+
+[MM Mesa allosaurus rib](https://scaniverse.com/scan/b4gsjsqgbwo6saqk)
+
+[MM Mesa vertebrae chain](https://scaniverse.com/scan/p7fg2o37w4uhkdp6)
+
+[MM Mesa nice limb](https://scaniverse.com/scan/ijhgbjbi5pf5t5ay)
+
+[MM Nice Rib Head](https://scaniverse.com/scan/ftoqie63khfgb7wt)
+
+[Ravens Head Rib w Concretion look for white rib under brown concretion](https://scaniverse.com/scan/4vaek5atrbcdq5c4)
+
+[Raven head route great pottery bowl red w black](https://scaniverse.com/scan/wjzveausvlfvlpuq)
+
+[Raven Gray pottery Raven head route](https://scaniverse.com/scan/6zcwiofz5gf4fyzd)
+
+[Raven head stegosaurus humerus](https://scaniverse.com/scan/jlk6pm6glj5lyt4s)
+
+[Raven stegosaurus humerus](https://scaniverse.com/scan/chaupq7m7r67cpc6)
+
+[RTL nc2 rib minor](https://scaniverse.com/scan/sfiajq7dj5cbrpvm)
+
+[RTL nc2 rib 2 major](https://scaniverse.com/scan/psfr46uxyv62bpgy)
+
+[RTL WOW red vert context](https://scaniverse.com/scan/dkxw5fp3igbaoreg)
+
+[RTL WOW RED VERTEBRA](https://scaniverse.com/scan/z77wp6mkjno4vkqs)
+
+[Y Mesa Green Plate](https://scaniverse.com/scan/r3mzsaciiduokeli)
+
+[Y Mesa Fibula end near green plate](https://scaniverse.com/scan/vz4jegdkzlf4zq5w)
+
+[Y Mesa Allosaurus pelvis](https://scaniverse.com/scan/6zxscpaaypqymcxc)
+
 
 
 
