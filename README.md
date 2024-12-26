@@ -1,7 +1,7 @@
 # Ojito Discoveries
 
 
-## Background
+### Background
 
 The names of the sites we use were developed primarily based on what I think a basin or mesa resembled looking down from a view as in Google Earth. Locations such as "Jeffersons Nose" - to me - resemble the image of Thomas Jefferson on a nickle. "Mammoth Mesa" resembles the head , tusks and trunk of a wooly mammoth when observed from overhead.  Most of the data and images we collected were collected over the span of years form 2014 to 2022 or so.
 
@@ -14,7 +14,7 @@ Let me share a little of why we love searching for dinosaur bones!  To put it si
     <img src="images/OjitoThrillOfDiscovery.png"  title="Video: Let the Adventure Begin!" width="800">
 </a>
 
-## Ojito Petroglyphs
+### Ojito Petroglyphs
 ![PetroglyphsImage.png](images/PetroglyphsImage.png)
 
 The petroglyphs in the Ojito Wilderness, estimated to be around 1,000 years old, are scattered along the edge of a mesa in its southeast corner and are the most extensive in the area. Discovering them requires effort, as their exact location is not widely shared, adding to the sense of accomplishment upon finding them. Standing on the ledge where they are inscribed, the author reflects on the ancient artist who etched these stories into the rock, imagining the timeless landscape and feeling a poignant connection to a fellow human from a distant past.  We have even found pottery sherds with juman fingerprints on them!
@@ -27,7 +27,7 @@ The petroglyphs in the Ojito Wilderness, estimated to be around 1,000 years old,
 
 **Note** The gallery will display thumbnails but click an image of interest to see full size!
 
-## The McConnell sites (I and II)
+### The McConnell sites (I and II)
 Described by [Hilde L. Schwartz and Kim Manley in "Geology and stratigraphy of the Seismosaurus locality, Sandoval County, New
 Mexico"](https://geoinfo.nmt.edu/publications/periodicals/nmg/14/n2/nmg_v14_n2_p25.pdf).  
 
@@ -55,9 +55,9 @@ See the video adventure below:
     <img src="images/MC20141020IMG_1794.jpg" title="Gallery: Burro mesa - Allosaurus Carpal" width="300">
 </a>
 
-# scaniverse (3D)
+# Burro mesa
 
-## Burro mesa - Large sauropod femur by tree
+### Burro mesa - Large sauropod femur by tree
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/n45y43l2ffq7cvcy">
@@ -96,22 +96,62 @@ Rotate the boulder down 90 degrees with a a mouse and zoom in or out with a scro
 
 Most probably an Allosaurus fibula proximal end.
 
+
 ### Burro mesa - Allosaurus Claw!
+
+Here we are with our Allosaurus claw find
+
+**Click the image below to watch 1.5 minutes of video**
+<a href="https://youtu.be/jErfilxaGyA"> 
+    <img src="images/Burro_ApproachToClawFirstTime.png"  title="Video: Bob discovering Allosaurus Claw Jan 03, 2020" width="800">
+</a>
+
+To manipulate the 3D scan play with it in scaniverse:
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/kyfzlf2m2gitpask">
     <img src="images/Burro_AllosaurClaw.png" title="3D Burro - Allosaurus Claw" width="300">
 </a>
 
-Rotate the iage about 30 degrees downward to see the FIbula tip and other frags we placed on top of the boulder
+Rotate the image about 30 degrees downward to see the Fibula tip and other frags we placed on top of the boulder
+
+
+After fiddling with the GoPro, we were able to record a video of us pondering what this fossil is. It did not dawn on me until the drive out that this is an Allosaurus Claw.
+
+**Click the image below to watch 37 seconds of video**
+<a href="https://youtu.be/vwRTcHrGBtU"> 
+    <img src="images/Burro_AllosaurClaw.png"  title="Video: Bob discovering Allosaurus Claw Jan 03, 2020" width="800">
+</a>
+
+
+
+Ben and I had a great time exploring this side of Sigma and down into what we later dubbed Burro mesa. Here I traverse that flat squishy claystone arroyo strewn with black rocks to investigate a hoodoo that was ofering cover for a landslid in situ embedded Allosaurus claw!
+
+In this video we ponder what this fossil is.
+
+
+**Click the image below to watch 3 minutes of video**
+<a href="https://youtu.be/vwRTcHrGBtU"> 
+    <img src="images/Burro_PonderingThisFossil.png"  title="Video: Bob and Ben pondering what this fossil is." width="800">
+</a>
 
 ### Burros mesa - Closer view of same Claw
+
+This was a different 3D scan of the same claw
 
 <a href="https://scaniverse.com/scan/a2nvoqds3bayhvmx">
     <img src="images/Burro_Claw2.png" title="3D Burro - Claw closer scan, same claw" long by 12 inches wide by 8 inches thick" width="300">
 </a>
 
-## Burro mesa - Possible in situ tooth (white)
+Watch a video that shows better 3D detail of the claw with my fingers for scale.
+
+**Click the image below to watch 1 minute of video**
+<a href="https://youtube.com/shorts/abApvGypqG0"> 
+    <img src="images/Burro_AllosaurClaw.png"  title="Video: Video upclose of claw" width="800">
+</a>
+
+
+### Burro mesa - Possible in situ tooth (white)
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/zo535nacuqgaqwoz">
@@ -122,7 +162,7 @@ Burro mesa - here is a possible tooth in situ. Zoom in, and translate the image 
 
 Across from Burro mesa maybe 20 yards on the western slope of a short cliffy, rocky slope. A white clast that is fossiliferous, but not boney. We think it may be a tooth - possibly allosaurus.
 
-## Burro mesa - Allosaurus Scapula
+### Burro mesa - Allosaurus Scapula
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/lboq5uy76a7wwycw">
@@ -132,7 +172,7 @@ Across from Burro mesa maybe 20 yards on the western slope of a short cliffy, ro
 This is located perhaps 20 yards from the other Burro bits
 
 
-## Burro mesa - Allosaurus limb femur
+### Burro mesa - Allosaurus limb femur
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/6srgruxo2j36vynw">
@@ -142,14 +182,22 @@ This is located perhaps 20 yards from the other Burro bits
 The first bone we found at what we later called Burro mesa. This was the first time we encountered the mix of agatized outer bone with a soild calcite inner core of what was in life a hollow femur of a large thropod. Large diameter allosaurus femur, maybe 8 inches width, split showing the calcium filled core of bone. This shows agatized white outer bone, and a softer calcium carbonate inner core.
 
 
-## Burro mesa - Allosaurus Partial Skull?
+### Burro mesa - Allosaurus Partial Skull?
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/vl3qmpb2frjz46yx">
     <img src="images/Burro_PossibleSkullPiece.png" title="3D Burro - Possible skull fragment" width="300">
 </a>
 
-## Burro mesa - Limb Excav
+Here is a video of us looking over this landslid fossil before it eventually broke along one of the cracks
+
+**Click the image below to watch 16 seconds of video**
+<a href="https://youtu.be/SeeK2oSihXQ"> 
+    <img src="images/Burro_PossibleSkullExploration.png"  title="Video: Sam scanning possible skull fragment" width="800">
+</a>
+
+
+### Burro mesa - Limb Excav
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/6ethygaukelxwict">
@@ -158,7 +206,7 @@ The first bone we found at what we later called Burro mesa. This was the first t
 
 We showed a designated NMMNH museum collector who has BLM permission to colelct where our allosaurus find was, and we got to help him excavate this limb from the boulder and deposit in the Museum Annex.
 
-## Burro mesa - Limb excavated hole shows relief or cast of the limb
+### Burro mesa - Limb excavated hole shows relief or cast of the limb
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/6ethygaukelxwict">
@@ -168,14 +216,14 @@ We showed a designated NMMNH museum collector who has BLM permission to colelct 
 Here is the same boulder with the remaining "cast" after the bone was pried out
 Burro_AllosaurFibula.png. The musem collected this speciment and it is ni the Annex.
 
-## Burro mesa - Rib in Saltwash
+### Burro mesa - Rib in Saltwash
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/3laimcekzfqkrclb">
     <img src="images/Burro_SaltwashSaurpodRib.png" title="3D Burro - Sauropod rib in Saltwash member cliff"  width="300">
 </a>
 
-## Cary - Allosaurus neck rib and vertebrae
+# Cary - Allosaurus neck rib and vertebrae
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/3yatfbogfeeeysiw">
@@ -184,7 +232,9 @@ Burro_AllosaurFibula.png. The musem collected this speciment and it is ni the An
 
 The first bone we ALMOST found and much later stumbled upon for the win. Early in 2014 Ben, Sam and I explored the area referred to as Cary (from the whitepaper noted above). Both boys asked me how to tell if they were looking at bone and I told them to "scrutinize anything different". Ben stood right next to a small juniper tree drinking water that day - and missed these bones right at his feet. Several years later Ben and I re-scanned the area and made this discovery!
 
-## Chi mesa - Allosaurus Radius
+# Chi Mesa
+
+### Chi mesa - Allosaurus Radius
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/6b4bxam554dp7cdo">
@@ -193,7 +243,7 @@ The first bone we ALMOST found and much later stumbled upon for the win. Early i
 
 Ben, Pam, Abbey, Liam, Ben, Sam and I hiked in towards Chi Mesa and starting finding new bones. Sam found a cliffy area with lots of Allosaur bits near our Chi mesa Allosaur tibia. Ben found a beautiful red rib and I found this nice Allosaur radius or ulna.
 
-## Chi mesa - Diplodocus femur head
+### Chi mesa - Diplodocus femur head
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/yf4qybj36pyuw4k6">
@@ -207,7 +257,7 @@ See the video adventure below:
     <img src="images/Chi_SauropodFemur.png"  title="Video: Limb in float Chi Mesa area" width="800">
 </a>
 
-## Chi Mesa - Camarasaurus tooth
+### Chi Mesa - Camarasaurus tooth
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/2s2pqrczaa4t5adz">
@@ -224,8 +274,9 @@ See the video adventure below:
     <img src="images/Chi_ToothNiceFind.png"  title="Video: Sam discovers camarasaurus tooth" width="800">
 </a>
 
+# Crescent Mesa
 
-## Crescent Mesa Stegosaurus Spike collected for NMMNH
+### Crescent Mesa Stegosaurus Spike collected for NMMNH
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/ezvfhqbgaez4vxzr">
@@ -241,21 +292,37 @@ See the video adventure below:
     <img src="images/Crescent_StegoSpike2.png"  title="Video: Dad discovers Stegosaurus spike in float" width="800">
 </a>
 
-[Crescent Mesa Stegosaurus in situ site](https://scaniverse.com/scan/jlhoaxeq7jjsrjhq)
+### Crescent Mesa Stegosaurus In Situ
+
+**Click the image below to manipulate the bone in 3D**
+<a href="https://scaniverse.com/scan/jlhoaxeq7jjsrjhq">
+    <img src="images/Crescent_StegoInSito.png" title="3D Stegosaurus remains in situ landslid"  width="300">
+</a>
+
+
+# Dragon's Back Bones
 
 [DB Limb on trail](https://scaniverse.com/scan/2nrsu5l54d5d7bai)
 
 [DB Diplodocus vertebrae](https://scaniverse.com/scan/bbvitgtbt2wcytya)
 
+# Germany
+
 [Germany in situ claystone w small diagnostic piece](https://scaniverse.com/scan/fjr2besm2t3qrdyn)
 
+# Batwing mesa
+
 [Batwing Sam's Boulder limb](https://scaniverse.com/scan/h6jcie627f4a6q4e)
+
+# Lambda Fat mesa
 
 [Lambda Fat original vert find in situ](https://scaniverse.com/scan/5eiei327ftl2onsy)
 
 [Lambda Fat three verts collected gray nice](https://scaniverse.com/scan/eq4ajky7cciszoq2)
 
 [Lambda Fat Camarasaurus vert 2](https://scaniverse.com/scan/pmbmpzngsjfiv6md)
+
+# Mammoth mesa
 
 [MM Mesa large limb boulder](https://scaniverse.com/scan/qpgtfdvnkpwv6abp)
 
@@ -273,6 +340,8 @@ See the video adventure below:
 
 [Ravens Head Rib w Concretion look for white rib under brown concretion](https://scaniverse.com/scan/4vaek5atrbcdq5c4)
 
+# Ravens Head
+
 [Raven head route great pottery bowl red w black](https://scaniverse.com/scan/wjzveausvlfvlpuq)
 
 [Raven Gray pottery Raven head route](https://scaniverse.com/scan/6zcwiofz5gf4fyzd)
@@ -281,6 +350,8 @@ See the video adventure below:
 
 [Raven stegosaurus humerus](https://scaniverse.com/scan/chaupq7m7r67cpc6)
 
+# Rattlesnake mesa
+
 [RTL nc2 rib minor](https://scaniverse.com/scan/sfiajq7dj5cbrpvm)
 
 [RTL nc2 rib 2 major](https://scaniverse.com/scan/psfr46uxyv62bpgy)
@@ -288,6 +359,8 @@ See the video adventure below:
 [RTL WOW red vert context](https://scaniverse.com/scan/dkxw5fp3igbaoreg)
 
 [RTL WOW RED VERTEBRA](https://scaniverse.com/scan/z77wp6mkjno4vkqs)
+
+# Y Mesa
 
 [Y Mesa Green Plate](https://scaniverse.com/scan/r3mzsaciiduokeli)
 
