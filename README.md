@@ -41,6 +41,15 @@ In our adventures we have found more and larger finds in MCII but MCI does have 
 
 MCII sports a couple of large splintering bones eroding out from red claystone. The larger appears to be a large head of rib of a sauropod of some kind.
 
+This was Sam's first dino find!  Man were we all excited!
+
+See the video adventure below:
+
+**Click the image below to watch 3 minutes of video**
+<a href="https://youtu.be/9jryaDWa73s"> 
+    <img src="images/MCII_Sam.png"  title="Video: Sam discovers large sauropod rib head in claystone at MCII" width="800">
+</a>
+
 **Click the image below to enter the McConnell Gallery**
 <a href="https://favoritemc.netlify.app/">
     <img src="images/MC20141020IMG_1794.jpg" title="Gallery: Burro mesa - Allosaurus Carpal" width="300">
@@ -55,7 +64,7 @@ MCII sports a couple of large splintering bones eroding out from red claystone. 
     <img src="images/Burro_SauropodFemur.png" title="3D Burro - Sauropod Femur 24" width="300">
 </a>
 
-Ben took a picture form a few hundred yard away of this lonesome looking old snarly juniper tree.  Later in the day, when we were passing sloce by, Ben starting finding grapfruit size pieces of bone, and when we followed it to its source - we discovered this partial sauropod femur. You can see the lonely tree in this video - its roots helping to hold the femur in place!
+Ben took a picture earlier in the day, from a few hundred yard away of this lonesome looking old gnarly juniper tree.  Later in the day, when we were passing close by, Ben starting finding grapfruit size pieces of bone, and when we followed it to its source - we discovered this partial sauropod femur. You can see the lonely tree in this video - its roots helping to hold the femur in place!
 
 Here's a video showing the discovery!
 
@@ -76,7 +85,7 @@ From Burro mesa area - quite a few Allosaurus bits!
 Rotate the boulder with a a mouse and zoom in or out with a scroll wheel, or translate with a SHIFT Mouse until you can clearly view the darker gray carpal bone of an allosaur!
 
 
-### Burro mesa Fib and Frags
+### Burro mesa Fibula end and Frags
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/vsqjrnednbcq6ikf">
@@ -84,6 +93,8 @@ Rotate the boulder with a a mouse and zoom in or out with a scroll wheel, or tra
 </a>
 
 Rotate the boulder down 90 degrees with a a mouse and zoom in or out with a scroll wheel, or translate with a SHIFT Mouse until you can clearly view the partially exposed claw of an allosaur! Now in the New Mexico Museum of Natural Hostory Annex!
+
+Most probably an Allosaurus fibula proximal end.
 
 ### Burro mesa - Allosaurus Claw!
 
@@ -107,7 +118,9 @@ Rotate the iage about 30 degrees downward to see the FIbula tip and other frags 
     <img src="images/Burro_PossibleTooth.png" title="3D Burro - Possible Tooth" width="300">
 </a>
 
-Burro mesa - here is a possible tooth in situ. Zoom in, and translate the image downward - look for white bone or tooth near top of boulder.
+Burro mesa - here is a possible tooth in situ. Zoom in, and translate the image downward - look for white bone or tooth near top of boulder. 
+
+Across from Burro mesa maybe 20 yards on the western slope of a short cliffy, rocky slope. A white clast that is fossiliferous, but not boney. We think it may be a tooth - possibly allosaurus.
 
 ## Burro mesa - Allosaurus Scapula
 
@@ -126,7 +139,7 @@ This is located perhaps 20 yards from the other Burro bits
     <img src="images/Burro_AllosauruFemureBits.png" title="3D Burro - Allosaurus Femur bits" width="300">
 </a>
 
-Large diameter allosaurus femur, maybe 8 inches width, split showing the calcium filled core of bone. This shows agatized white outer bone, and a softer calcium carbonate inner core.
+The first bone we found at what we later called Burro mesa. This was the first time we encountered the mix of agatized outer bone with a soild calcite inner core of what was in life a hollow femur of a large thropod. Large diameter allosaurus femur, maybe 8 inches width, split showing the calcium filled core of bone. This shows agatized white outer bone, and a softer calcium carbonate inner core.
 
 
 ## Burro mesa - Allosaurus Partial Skull?
@@ -145,7 +158,7 @@ Large diameter allosaurus femur, maybe 8 inches width, split showing the calcium
 
 We showed a designated NMMNH museum collector who has BLM permission to colelct where our allosaurus find was, and we got to help him excavate this limb from the boulder and deposit in the Museum Annex.
 
-## Burro mesa - Limb Excav hole
+## Burro mesa - Limb excavated hole shows relief or cast of the limb
 
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/6ethygaukelxwict">
@@ -153,7 +166,7 @@ We showed a designated NMMNH museum collector who has BLM permission to colelct 
 </a>
 
 Here is the same boulder with the remaining "cast" after the bone was pried out
-Burro_AllosaurFibula.png
+Burro_AllosaurFibula.png. The musem collected this speciment and it is ni the Annex.
 
 ## Burro mesa - Rib in Saltwash
 
@@ -178,6 +191,8 @@ The first bone we ALMOST found and much later stumbled upon for the win. Early i
     <img src="images/Chi_AllosaurusRadius.png" title="3D Allosaurus Radius landslid in situ Chi Mesa area"  width="300">
 </a>
 
+Ben, Pam, Abbey, Liam, Ben, Sam and I hiked in towards Chi Mesa and starting finding new bones. Sam found a cliffy area with lots of Allosaur bits near our Chi mesa Allosaur tibia. Ben found a beautiful red rib and I found this nice Allosaur radius or ulna.
+
 ## Chi mesa - Diplodocus femur head
 
 **Click the image below to manipulate the bone in 3D**
@@ -199,15 +214,33 @@ See the video adventure below:
     <img src="images/Chi_CamarasaurusTooth.png" title="3D Camarasaurus tooth fragments in float Chi Mesa area"  width="300">
 </a>
 
+Nice spring day in April 20121. April 03, we did another rescan of Chi mesa area prior to leading the FOP group our here a week later. As we climbed up the western slope looking easterly at our feet on the steep slope, Sam said he found something bone like but he was not sure what it was. Then he found more and more. In all he found about 5 fragments of what Ben first realized was a tooth!  I recognized the spoon like nature of the tooth and thought it may be a camarasaurus (common in Brushy Basin) or Brachiosaurus (rare world wide).
+
+
 See the video adventure below:
 
 **Click the image below to watch 3 minutes of video**
-<a href="https://youtu.be/..."> 
-    <img src="images/Chi_CamarasaurusTooth.png"  title="Video: Sam discovers camarasaurus tooth" width="800">
+<a href="https://youtube.com/shorts/VyJOVxJtmKQ?feature=share"> 
+    <img src="images/Chi_ToothNiceFind.png"  title="Video: Sam discovers camarasaurus tooth" width="800">
 </a>
 
 
-Crescent Mesa Stegosaurus Spike collected for NMMNH
+## Crescent Mesa Stegosaurus Spike collected for NMMNH
+
+**Click the image below to manipulate the bone in 3D**
+<a href="https://scaniverse.com/scan/ezvfhqbgaez4vxzr">
+    <img src="images/Crescent_StegoSpike.png"  title="3D Stegosaurus Spike in float"  width="300">
+</a>
+
+2017/03/18 Beautiful March day!. We explore Crescent mesa along with sites in the Baltic sea area so named by me. Today it is Sam, Ben, me (Dad) dicovering our first Stegosaurus spike in float. There are other bones in landslid in situ boulder above but those bones are indeterminanet by us!
+
+See the video adventure below:
+
+**Click the image below to watch 3 minutes of video**
+<a href="https://youtu.be/QaUVd5N_DiM"> 
+    <img src="images/Crescent_StegoSpike2.png"  title="Video: Dad discovers Stegosaurus spike in float" width="800">
+</a>
+
 
 Crescent Mesa Stegosaurus in situ site
 
