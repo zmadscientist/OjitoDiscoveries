@@ -298,6 +298,8 @@ See the video adventure below:
 
 ### Crescent Mesa Stegosaurus In Situ
 
+Crescent mesa looked unimpressive at first, from Google Earth. It seemed narrow and very monotone gray.  We had been used to finding bones in clays that wre multicolored. Once we discovered the significanse of long gar like mesa shapes like Mammoth mesa, which were also monotone from the air, we developed an affinity for finding bones in these long narrow mesa and associaed landslid boulders. Once we adjusted to the new possibilities,  we began the exploration of mesa such as Crecsnet and Batwing, and were not disappointed. Crescent mesa has lts of larger orange bone frags on the western side, and the stegosaurus spike and other bits on the east side.
+
 **Click the image below to manipulate the bone in 3D**
 <a href="https://scaniverse.com/scan/jlhoaxeq7jjsrjhq">
     <img src="images/Crescent_StegoInSito.png" title="3D Stegosaurus remains in situ landslid"  width="300">
@@ -306,19 +308,29 @@ See the video adventure below:
 
 # Dragon's Back Bones
 
+We searched Dragon's Back on Dec 27, 2014. Our first non Ojito WIlderness exploration, but still in the area we refer to colloquially as the Ojito.  I had found a geological map that students from France had created after their survey years earlier. They included a shot of a dinosaur bone in a cliff somewhere along their traverse. We decided to explore the area. We started our hike on a cold and windy day. I decided we coudl take shelter along the western cliff face of the anticline area of San Ysidro ( Eastern most part of the bowl). This reduced the wind significantly but also within a couple hundred yards we began to find bone and LARGE in situ bones in the cliff. Bones including a nice leg bone and cast, and a very large diplodocus vertabrae. What an amazing day!
+
 [DB Limb on trail](https://scaniverse.com/scan/2nrsu5l54d5d7bai)
 
 [DB Diplodocus vertebrae](https://scaniverse.com/scan/bbvitgtbt2wcytya)
 
 # Germany
 
+We discovered and dubbed Germany on Spring break during 2015 in mid March. Ben & Sam and I camped on a mesa top and spent two days exploring basins (that I dub seas, such as Baltic sea, Mediteranean sea, etc) and mesas that tend to look like coast lines of countries like italy, or greece and then we devolved into naming high places or mesas by other country names in Europe. Germany is not far from Italy and was next on our list of names when we found bones at the site.
+
 [Germany in situ claystone w small diagnostic piece](https://scaniverse.com/scan/fjr2besm2t3qrdyn)
 
 # Batwing mesa
 
+Batwing mesa
+is maybe on the order of Dragons back, Burro mesa and even Mammoth mesa for numbers of in situ landslid and cliff embedded bone frags. Most of these are indeterminant bone frags but they are very intersting. It should be at least exlored for a half to one day - two days to take in most of the bones. The name Batwing comes from the appearance fo the parentheses shapes mesas in the northern Ojito. They look like a kind of Bat signal hence the name.  Batwing, for us, refers to the Western most wing.
+
 [Batwing Sam's Boulder limb](https://scaniverse.com/scan/h6jcie627f4a6q4e)
 
 # Lambda Fat mesa
+
+Lambda fat is near Mammoth mesa and Y mesa and has a nice assemblage of camarasaurus vertebrae, a tiny goniofolid tooth and other bits. Nice color on the camarasaurus vertebrae - white bone in red sandstone matrix. This can be rescanned in a couple of hours.
+
 
 [Lambda Fat original vert find in situ](https://scaniverse.com/scan/5eiei327ftl2onsy)
 
@@ -327,6 +339,10 @@ See the video adventure below:
 [Lambda Fat Camarasaurus vert 2](https://scaniverse.com/scan/pmbmpzngsjfiv6md)
 
 # Mammoth mesa
+
+I dubbed Mammtoh mesa based on the shape of inerconnecting mesa and knob which taken together resemble the profile of a mammoth head, tusk, and trunk.  We have discovered HUNDREDS of bone fragments in situ in the cliff or in landslid boulders here. Multiple species but most likely allosaurus and diplodocus bits but likely others as well.
+
+Large saurpod rib heads, rib of allosaurus most likely, a probable theorpod spine in situ in a large boulder, multiple saurpod limbs, saoropod and likley allosaurus vertebrae.
 
 [MM Mesa large limb boulder](https://scaniverse.com/scan/qpgtfdvnkpwv6abp)
 
@@ -346,6 +362,8 @@ See the video adventure below:
 
 # Ravens Head
 
+I Dubbed Raven's head based on the shape of the mesa as it appears from Google Earth. After I dubbed it, Ben and I decided to explore it. What a great adventure. Raven's head has a handful of very cool finds but we have not been able to extend them much lately.
+
 [Raven head route great pottery bowl red w black](https://scaniverse.com/scan/wjzveausvlfvlpuq)
 
 [Raven Gray pottery Raven head route](https://scaniverse.com/scan/6zcwiofz5gf4fyzd)
@@ -356,6 +374,10 @@ See the video adventure below:
 
 # Rattlesnake mesa
 
+I dubbed Rattlesnake mesa based on a vigorus Diamond Back rattle sanake encounter we had in March of 2015. Sam heard it rattling somewhere aboout 50 to 75 yards away!  We got excellent photos of it before it took cover under a large boulder. The encounter slowed our progress throughout the day as we climbed up and over and around boulder after boulder.
+
+Right about the time Sam detected the snake we were finding lots of bone fragments on the southern and western faces of the mesa.  After the encounter we also dicovered a very nice red split sauropod vertebrae in float - the size of a bowling ball!
+
 [RTL nc2 rib minor](https://scaniverse.com/scan/sfiajq7dj5cbrpvm)
 
 [RTL nc2 rib 2 major](https://scaniverse.com/scan/psfr46uxyv62bpgy)
@@ -365,6 +387,10 @@ See the video adventure below:
 [RTL WOW RED VERTEBRA](https://scaniverse.com/scan/z77wp6mkjno4vkqs)
 
 # Y Mesa
+
+Y mesa is across Bernalillito arroyo adn is deep and dangerous to cross in the summer due to flash floods from Monsoon rain season. We have to take care to get our summer excursion out and across that arroyo and exploration done BEFORE about noon and the threat of afternoon rains!
+
+During such an excursion in July 2015, Ben and I discovered an amazing number and variety of bones. As we pressed on again 12 noon and to about 1PM we were hurrying to get back across the arroyo. We took a shortcut up and over Y Mesa to get back quickly to cross the Arroyo and in so doing discovered a nice Allosaurus Pelvis in situ in the sandstone!
 
 [Y Mesa Green Plate](https://scaniverse.com/scan/r3mzsaciiduokeli)
 
