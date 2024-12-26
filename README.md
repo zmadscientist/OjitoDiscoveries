@@ -41,7 +41,7 @@ MCII sports a couple of large splintering bones eroding out from red claystone. 
 # scaniverse (3D)
 
 
-### Allosaurus Carpal
+### Burro mesa - Allosaurus Carpal
 
 <a href="https://scaniverse.com/scan/4zpqghjstlkfivuh">
     <img src="images/AlloCarpal.png" alt="AlloCarpal" width="300">
@@ -69,6 +69,12 @@ Rotate the boulder down 90 degrees with a a mouse and zoom in or out with a scro
 
 Rotate the iage about 30 degrees downward to see the FIbula tip and other frags we placed on top of the boulder
 
+### Burros mesa - Closer view of same Claw
+
+<a href="https://scaniverse.com/scan/a2nvoqds3bayhvmx">
+    <img src="images/Burro_Claw2.png" alt="Burro - Claw closer scan, same claw" long by 12 inches wide by 8 inches thick" width="300">
+</a>
+
 ### Burro mesa - Possible in situ tooth (white)
 
 <a href="https://scaniverse.com/scan/zo535nacuqgaqwoz">
@@ -79,8 +85,8 @@ Burro mesa - here is a possible tooth in situ. Zoom in, and translate the image 
 
 ### Burro mesa - Allosaurus Scapula
 
-<a href="https://scaniverse.com/scan/zo535nacuqgaqwoz">
-    <img src="images/Burro_PossibleTooth.png" alt="Burro - Possible Tooth" width="300">
+<a href="https://scaniverse.com/scan/lboq5uy76a7wwycw">
+    <img src="images/Burro_AllosaurusScapula.png" alt="Burro - Allosaurus Scapula" width="300">
 </a>
 
 This is located perhaps 20 yards from the other Burro bits
@@ -101,12 +107,6 @@ Large diameter maybe 8 inches width split femur. Shoing agatized white outer bon
 </a>
 
 Ben took a picture form a few hundred yard away of this lonesome looking old snarly juniper tree.  Later in the day, when we were passing sloce by, Ben starting finding grapfruit size pieces of bone, and when we followed it to its source - we discovered this partial sauropod femur.
-
-### Burros mesa - Closer view of same Claw
-
-<a href="https://scaniverse.com/scan/a2nvoqds3bayhvmx">
-    <img src="images/Burro_Claw2.png" alt="Burro - Claw closer scan, same claw" long by 12 inches wide by 8 inches thick" width="300">
-</a>
 
 ### Burro - Allosaurus Partial Skull?
 
