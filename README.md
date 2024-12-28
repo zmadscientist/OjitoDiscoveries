@@ -10,9 +10,26 @@ Several images, video, and 3D scan sites are provided to get a better sense of o
 Let me share a little of why we love searching for dinosaur bones!  To put it simply - Its the THRILL of DISCOVERY!
 
 **Click the image below to watch 3 minutes of video**
+
 <a href="https://youtu.be/5RGm2he9G9M"> 
     <img src="images/OjitoThrillOfDiscovery.png"  title="Video: Let the Adventure Begin!" width="800">
 </a>
+
+- [Petroglyphs Gallery](https://ojitopetroglyphsadventure.netlify.app/)
+- [Quick Survey Gallery](https://foptalkquicksurveyphotos.netlify.app/)
+- [Osteo maps](https://favoriteosteomaps.netlify.app/)
+- [Burro mesa Claw](https://favoriteburroclaw.netlify.app/)
+- [Burro](https://favoriteburro.netlify.app/)
+- [Other sites](https://foptalkadditionalimagesqna.netlify.app/)
+- [FOP Additional Images](https://fopadditioanlimageszz.netlify.app/)
+- [Batwing mesa](https://favoritebat.netlify.app/)
+- [Beauty Rocks](https://favoritebmbeautyrocks.netlify.app/)
+- [Chi mesa](https://favoritechi.netlify.app/)
+- [Dragon's Back](https://favoritedb.netlify.app/)
+- [Lambda mesa](https://favoritelambda.netlify.app/)
+- [Mammoth mesa](https://favoritemammoth.netlify.app/)
+- [McConnell](https://favoritemc.netlify.app/)
+
 
 ### Ojito Petroglyphs
 ![PetroglyphsImage.png](images/PetroglyphsImage.png)
@@ -46,11 +63,13 @@ This was Sam's first dino find!  Man were we all excited!
 See the video adventure below:
 
 **Click the image below to watch 3 minutes of video**
+
 <a href="https://youtu.be/9jryaDWa73s"> 
     <img src="images/MCII_Sam.png"  title="Video: Sam discovers large sauropod rib head in claystone at MCII" width="800">
 </a>
 
 **Click the image below to enter the McConnell Gallery**
+
 <a href="https://favoritemc.netlify.app/">
     <img src="images/MC20141020IMG_1794.jpg" title="Gallery: Burro mesa - Allosaurus Carpal" width="300">
 </a>
@@ -64,6 +83,7 @@ several hundred yards north of this mesa proper we found a large sauropod limb i
 ### Burro mesa - Large sauropod femur by tree
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/n45y43l2ffq7cvcy">
     <img src="images/Burro_SauropodFemur.png" title="3D Burro - Sauropod Femur 24" width="300">
 </a>
@@ -73,6 +93,7 @@ Ben took a picture earlier in the day, from a few hundred yard away of this lone
 Here's a video showing the discovery!
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://youtu.be/KLSJt6LzkR8">
     <img src="images/Burro_SauropodFemur2.png" title="Video: Burro - Sauropod femur discovery" width="800">
 </a>
@@ -80,6 +101,7 @@ Here's a video showing the discovery!
 
 ### Burro mesa - Allosaurus Carpal
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/4zpqghjstlkfivuh">
     <img src="images/AlloCarpal.png" title ="3D Allosaurus Carpal" width="300">
 </a>
@@ -92,6 +114,7 @@ Rotate the boulder with a a mouse and zoom in or out with a scroll wheel, or tra
 ### Burro mesa Fibula end and Frags
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/vsqjrnednbcq6ikf">
     <img src="images/Burro_AlloTibia_nFrags.png" title ="3D Burro - Allosaurus Fibula tip and Frags" width="300">
 </a>
@@ -106,6 +129,7 @@ Most probably an Allosaurus fibula proximal end.
 Here we are with our Allosaurus claw find
 
 **Click the image below to watch 1.5 minutes of video**
+
 <a href="https://youtu.be/jErfilxaGyA"> 
     <img src="images/Burro_ApproachToClawFirstTime.png"  title="Video: Bob discovering Allosaurus Claw Jan 03, 2020" width="800">
 </a>
@@ -113,6 +137,7 @@ Here we are with our Allosaurus claw find
 To manipulate the 3D scan play with it in scaniverse:
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/kyfzlf2m2gitpask">
     <img src="images/Burro_AllosaurClaw.png" title="3D Burro - Allosaurus Claw" width="300">
 </a>
@@ -123,6 +148,7 @@ Rotate the image about 30 degrees downward to see the Fibula tip and other frags
 After fiddling with the GoPro, we were able to record a video of us pondering what this fossil is. It did not dawn on me until the drive out that this is an Allosaurus Claw.
 
 **Click the image below to watch 37 seconds of video**
+
 <a href="https://youtu.be/vwRTcHrGBtU"> 
     <img src="images/Burro_AllosaurClaw.png"  title="Video: Bob discovering Allosaurus Claw Jan 03, 2020" width="800">
 </a>
@@ -135,6 +161,7 @@ In this video we ponder what this fossil is.
 
 
 **Click the image below to watch 3 minutes of video**
+
 <a href="https://youtu.be/vwRTcHrGBtU"> 
     <img src="images/Burro_PonderingThisFossil.png"  title="Video: Bob and Ben pondering what this fossil is." width="800">
 </a>
@@ -150,6 +177,7 @@ This was a different 3D scan of the same claw
 Watch a video that shows better 3D detail of the claw with my fingers for scale.
 
 **Click the image below to watch 1 minute of video**
+
 <a href="https://youtube.com/shorts/abApvGypqG0"> 
     <img src="images/Burro_AllosaurClaw.png"  title="Video: Video up close of claw" width="800">
 </a>
@@ -158,6 +186,7 @@ Watch a video that shows better 3D detail of the claw with my fingers for scale.
 ### Burro mesa - Possible in situ tooth (white)
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/zo535nacuqgaqwoz">
     <img src="images/Burro_PossibleTooth.png" title="3D Burro - Possible Tooth" width="300">
 </a>
@@ -169,6 +198,7 @@ Across from Burro mesa maybe 20 yards on the western slope of a short cliffy, ro
 ### Burro mesa - Allosaurus Scapula
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/lboq5uy76a7wwycw">
     <img src="images/Burro_AllosaurusScapula.png" title="3D Burro - Allosaurus Scapula" width="450">
 </a>
@@ -179,6 +209,7 @@ This is located perhaps 20 yards from the other Burro bits
 ### Burro mesa - Allosaurus limb femur
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/6srgruxo2j36vynw">
     <img src="images/Burro_AllosauruFemureBits.png" title="3D Burro - Allosaurus Femur bits" width="300">
 </a>
@@ -189,6 +220,7 @@ The first bone we found at what we later called Burro mesa. This was the first t
 ### Burro mesa - Allosaurus Partial Skull?
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/vl3qmpb2frjz46yx">
     <img src="images/Burro_PossibleSkullPiece.png" title="3D Burro - Possible skull fragment" width="300">
 </a>
@@ -196,6 +228,7 @@ The first bone we found at what we later called Burro mesa. This was the first t
 Here is a video of us looking over this land-slid fossil before it eventually broke along one of the cracks.
 
 **Click the image below to watch 16 seconds of video**
+
 <a href="https://youtu.be/SeeK2oSihXQ"> 
     <img src="images/Burro_PossibleSkullExploration.png"  title="Video: Sam scanning possible skull fragment" width="800">
 </a>
@@ -204,6 +237,7 @@ Here is a video of us looking over this land-slid fossil before it eventually br
 ### Burro mesa - Limb Excav
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/6ethygaukelxwict">
     <img src="images/Burro_AllosaurFibula.png" title="3D Burro - Allosaurus fibula in situ - and later excavated"  width="300">
 </a>
@@ -213,6 +247,7 @@ We showed a designated NMMNH museum collector who has BLM permission to collect 
 ### Burro mesa - Limb excavated hole shows relief or cast of the limb
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/6ethygaukelxwict">
     <img src="images/Burro_AllosaurFibulaRemainingCast.png" title="3D Burro - Allosaurus fibula cast after excavation"  width="300">
 </a>
@@ -223,6 +258,7 @@ Burro_AllosaurFibula.png. The museum collected this specimen and it is ni the An
 ### Burro mesa - Rib in Saltwash
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/3laimcekzfqkrclb">
     <img src="images/Burro_SaltwashSaurpodRib.png" title="3D Burro - Sauropod rib in Saltwash member cliff"  width="300">
 </a>
@@ -230,6 +266,7 @@ Burro_AllosaurFibula.png. The museum collected this specimen and it is ni the An
 # Cary - Allosaurus neck rib and vertebrae
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/3yatfbogfeeeysiw">
     <img src="images/Cary_NeckRibWhite.png" title="3D Allosaurus neck rib (white) and vertebrae (brown and orange)"  width="300">
 </a>
@@ -241,6 +278,7 @@ The first bone we ALMOST found and much later stumbled upon for the win. Early i
 ### Chi mesa - Allosaurus Radius
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/6b4bxam554dp7cdo">
     <img src="images/Chi_AllosaurusRadius.png" title="3D Allosaurus Radius land-slid in situ Chi Mesa area"  width="300">
 </a>
@@ -250,6 +288,8 @@ Ben, Pam, Abbey, Liam, Ben, Sam and I hiked in towards Chi Mesa and starting fin
 ### Chi mesa - Diplodocus femur head
 
 **Click the image below to manipulate the bone in 3D**
+
+
 <a href="https://scaniverse.com/scan/yf4qybj36pyuw4k6">
     <img src="images/Chi_SauropodFemur.png" title="3D Sauropod (Diplodocus or Camarasaurus) Limb in float Chi Mesa area"  width="300">
 </a>
@@ -257,6 +297,7 @@ Ben, Pam, Abbey, Liam, Ben, Sam and I hiked in towards Chi Mesa and starting fin
 See the video adventure below:
 
 **Click the image below to watch 3 minutes of video**
+
 <a href="https://youtu.be/4dgwCGRc2bI"> 
     <img src="images/Chi_SauropodFemur.png"  title="Video: Limb in float Chi Mesa area" width="800">
 </a>
@@ -264,6 +305,7 @@ See the video adventure below:
 ### Chi Mesa - Camarasaurus tooth
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/2s2pqrczaa4t5adz">
     <img src="images/Chi_CamarasaurusTooth.png" title="3D Camarasaurus tooth fragments in float Chi Mesa area"  width="300">
 </a>
@@ -274,6 +316,7 @@ Nice spring day in April 20121. April 03, we did another rescan of Chi mesa area
 See the video adventure below:
 
 **Click the image below to watch 3 minutes of video**
+
 <a href="https://youtube.com/shorts/VyJOVxJtmKQ?feature=share"> 
     <img src="images/Chi_ToothNiceFind.png"  title="Video: Sam discovers camarasaurus tooth" width="800">
 </a>
@@ -283,6 +326,7 @@ See the video adventure below:
 ### Crescent Mesa Stegosaurus Spike collected for NMMNH
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/ezvfhqbgaez4vxzr">
     <img src="images/Crescent_StegoSpike.png"  title="3D Stegosaurus Spike in float"  width="300">
 </a>
@@ -292,6 +336,7 @@ See the video adventure below:
 See the video adventure below:
 
 **Click the image below to watch 3 minutes of video**
+
 <a href="https://youtu.be/QaUVd5N_DiM"> 
     <img src="images/Crescent_StegoSpike2.png"  title="Video: Dad discovers Stegosaurus spike in float" width="800">
 </a>
@@ -301,6 +346,7 @@ See the video adventure below:
 Crescent mesa looked unimpressive at first, from Google Earth. It seemed narrow and very monotone gray.  We had been used to finding bones in clays that wre multicolored. Once we discovered the significance of long gar like mesa shapes like Mammoth mesa, which were also monotone from the air, we developed an affinity for finding bones in these long narrow mesa and associated land-slid boulders. Once we adjusted to the new possibilities,  we began the exploration of mesa such as Crescent and Batwing, and were not disappointed. Crescent mesa has bits of larger orange bone frags on the western side, and the stegosaurus spike and other bits on the east side.
 
 **Click the image below to manipulate the bone in 3D**
+
 <a href="https://scaniverse.com/scan/jlhoaxeq7jjsrjhq">
     <img src="images/Crescent_StegoInSito.png" title="3D Stegosaurus remains in situ land-slid"  width="300">
 </a>
