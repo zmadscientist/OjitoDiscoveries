@@ -92,7 +92,7 @@ Ben took a picture earlier in the day, from a few hundred yard away of this lone
 
 Here's a video showing the discovery!
 
-**Click the image below to manipulate the bone in 3D**
+**Click the image below to watch the adventure**
 
 <a href="https://youtu.be/KLSJt6LzkR8">
     <img src="images/Burro_SauropodFemur2.png" title="Video: Burro - Sauropod femur discovery" width="800">
@@ -149,7 +149,7 @@ After fiddling with the GoPro, we were able to record a video of us pondering wh
 
 **Click the image below to watch 37 seconds of video**
 
-<a href="https://youtu.be/vwRTcHrGBtU"> 
+<a href="https://youtube.com/shorts/abApvGypqG0"> 
     <img src="images/Burro_AllosaurClaw.png"  title="Video: Bob discovering Allosaurus Claw Jan 03, 2020" width="800">
 </a>
 
